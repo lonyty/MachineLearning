@@ -1,4 +1,4 @@
-# Group Project in Introduction to Machine Learning BOEC0385 at UZH
+# Group Project in Introduction to Machine Learning
 
 Feeding a supervised machine learning model with financial indicators to predict a hold, sell or buy classification compared to the S&P 500 as a benchmark.
 
